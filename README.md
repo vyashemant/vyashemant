@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: Flask Fingerprint Based Attendence and Salery Module<br><br>🌱 Learning: Python-Flask<br><br>💡 Interests: AI, Cloud Computing, Automation, WebDev, etc.<br><br>📫 Reach me at: hemantvikramvyas@gmail.com
+🔭 Currently working on: Flask Fingerprint Based Attendence and Salary Module<br><br>🌱 Learning: Python-Flask<br><br>💡 Interests: AI, Cloud Computing, Automation, WebDev, etc.<br><br>📫 Reach me at: hemantvikramvyas@gmail.com
 
 
 ## 🌐 Socials:
